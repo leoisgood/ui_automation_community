@@ -1,0 +1,47 @@
+[2021-07-22 22:33:30,038] selenium_base_case.py->setUpClass line:11 [INFO] : 测试类开始执行
+[2021-07-22 22:33:30,038] selenium_base_case.py->setUp line:15 [INFO] : 测试方法开始执行
+[2021-07-22 22:33:33,708] browser.py->get_chrome_driver line:32 [INFO] : 初始化并启动谷歌浏览器
+[2021-07-22 22:33:33,836] base_page.py->set_browser_max line:28 [INFO] : 设置浏览器最大化
+[2021-07-22 22:33:39,090] base_page.py->open_url line:22 [INFO] : 打开url地址:http://47.107.178.45/zentao/www/index.php?m=user&f=login
+[2021-07-22 22:33:44,640] base_page.py->find_element line:74 [ERROR] : [用户名输入框]元素不能识别，原因是Message: 
+
+[2021-07-22 22:33:45,222] base_page.py->close_tab line:40 [INFO] : 关闭当前tab页签
+[2021-07-22 22:33:45,226] selenium_base_case.py->setUp line:15 [INFO] : 测试方法开始执行
+[2021-07-22 22:33:46,382] browser.py->get_chrome_driver line:32 [INFO] : 初始化并启动谷歌浏览器
+[2021-07-22 22:33:46,515] base_page.py->set_browser_max line:28 [INFO] : 设置浏览器最大化
+[2021-07-22 22:33:52,572] base_page.py->open_url line:22 [INFO] : 打开url地址:http://47.107.178.45/zentao/www/index.php?m=user&f=login
+[2021-07-22 22:33:58,150] base_page.py->find_element line:74 [ERROR] : [用户名输入框]元素不能识别，原因是Message: 
+
+[2021-07-22 22:33:58,656] base_page.py->close_tab line:40 [INFO] : 关闭当前tab页签
+[2021-07-22 22:34:33,872] browser.py->get_chrome_driver line:32 [INFO] : 初始化并启动谷歌浏览器
+[2021-07-22 22:34:43,328] base_page.py->find_element line:74 [ERROR] : [用户名输入框]元素不能识别，原因是Message: 
+
+[2021-07-22 22:34:54,090] browser.py->get_chrome_driver line:32 [INFO] : 初始化并启动谷歌浏览器
+[2021-07-22 22:34:58,338] base_page.py->open_url line:22 [INFO] : 打开url地址:http://47.107.178.45/zentao/www/index.php?m=user&f=login
+[2021-07-22 22:35:17,814] base_page.py->open_url line:22 [INFO] : 打开url地址:http://47.107.178.45/zentao/www/index.php?m=user&f=login
+[2021-07-22 22:35:17,827] base_page.py->find_element line:74 [ERROR] : [用户名输入框]元素不能识别，原因是Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=91.0.4472.164)
+
+[2021-07-22 22:35:25,441] base_page.py->open_url line:22 [INFO] : 打开url地址:http://47.107.178.45/zentao/www/index.php?m=user&f=login
+[2021-07-22 22:35:30,586] base_page.py->find_element line:74 [ERROR] : [用户名输入框]元素不能识别，原因是Message: 
+
+[2021-07-22 22:37:13,322] base_page.py->open_url line:22 [INFO] : 打开url地址:http://47.107.178.45/zentao/www/index.php?m=user&f=login
+[2021-07-22 22:37:18,533] base_page.py->find_element line:74 [ERROR] : [用户名输入框]元素不能识别，原因是Message: 
+
+[2021-07-22 22:39:24,235] base_page.py->open_url line:22 [INFO] : 打开url地址:http://47.107.178.45/zentao/www/index.php?m=user&f=login
+[2021-07-22 22:39:29,408] base_page.py->find_element line:74 [ERROR] : [用户名输入框]元素不能识别，原因是Message: 
+
+[2021-07-22 22:40:43,816] base_page.py->open_url line:22 [INFO] : 打开url地址:http://47.107.178.45/zentao/www/index.php?m=user&f=login
+[2021-07-22 22:40:48,991] base_page.py->find_element line:74 [ERROR] : [用户名输入框]元素不能识别，原因是Message: 
+
+[2021-07-22 22:43:20,635] base_page.py->open_url line:22 [INFO] : 打开url地址:http://47.107.178.45/zentao/www/index.php?m=user&f=login
+[2021-07-22 22:43:20,644] base_page.py->find_element line:71 [INFO] : [用户名输入框]元素识别成功
+[2021-07-22 22:43:20,680] base_page.py->input line:91 [INFO] : [用户名输入框]元素输入内容[test01]
+[2021-07-22 22:43:20,691] base_page.py->find_element line:71 [INFO] : [密码输入框]元素识别成功
+[2021-07-22 22:43:20,745] base_page.py->input line:91 [INFO] : [密码输入框]元素输入内容[newdream123]
+[2021-07-22 22:43:20,755] base_page.py->find_element line:71 [INFO] : [登录按钮]元素识别成功
+[2021-07-22 22:43:20,792] base_page.py->click line:84 [INFO] : [登录按钮]元素点击成功
+[2021-07-22 22:43:20,792] login_page.py->click_login line:43 [INFO] : 登录按钮是{'element_name': '登录按钮', 'locator_page': 'login_page', 'locator_type': 'xpath', 'locator_value': '//button[@id="submit"]', 'time_out': 5.0}
+[2021-07-22 22:43:23,798] base_page.py->wait line:100 [INFO] : 等待[3]秒
+[2021-07-22 22:43:24,034] base_page.py->close_tab line:40 [INFO] : 关闭当前tab页签

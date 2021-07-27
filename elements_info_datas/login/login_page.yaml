@@ -1,0 +1,25 @@
+username_inputbox:
+  element_name: 用户名输入框
+  locator_page: login_page
+  locator_type: xpath
+  locator_value: //input[@name="account"]
+  time_out: 5
+password_inputbox:
+  element_name: 密码输入框
+  locator_page: login_page
+  locator_type: xpath
+  locator_value: //input[@name="password"]
+  time_out: 5
+login_button:
+  element_name: 登录按钮
+  locator_page: login_page
+  locator_type: xpath
+  locator_value: //button[@id="submit"]
+  time_out: 3
+bug_link:
+  element_name: bug链接[%s]
+  locator_page: bug_page
+  locator_type: xpath
+  locator_value: //button[@title="%s"]
+  time_out: 10
+

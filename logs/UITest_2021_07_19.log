@@ -1,0 +1,103 @@
+[2021-07-19 23:48:22,275] selenium_base_case.py->setUpClass line:11 [INFO] : 测试类开始执行
+[2021-07-19 23:48:22,275] selenium_base_case.py->setUp line:15 [INFO] : 测试方法开始执行
+[2021-07-19 23:48:23,703] browser.py->get_chrome_driver line:32 [INFO] : 初始化并启动谷歌浏览器
+[2021-07-19 23:48:23,830] base_page.py->set_browser_max line:28 [INFO] : 设置浏览器最大化
+[2021-07-19 23:48:27,404] base_page.py->open_url line:22 [INFO] : 打开url地址:http://47.107.178.45/zentao/www/index.php?m=user&f=login
+[2021-07-19 23:48:32,993] base_page.py->find_element line:74 [ERROR] : [用户名输入框]元素不能识别，原因是Message: 
+
+[2021-07-19 23:48:33,599] base_page.py->close_tab line:40 [INFO] : 关闭当前tab页签
+[2021-07-19 23:48:33,614] selenium_base_case.py->setUp line:15 [INFO] : 测试方法开始执行
+[2021-07-19 23:48:34,853] browser.py->get_chrome_driver line:32 [INFO] : 初始化并启动谷歌浏览器
+[2021-07-19 23:48:34,972] base_page.py->set_browser_max line:28 [INFO] : 设置浏览器最大化
+[2021-07-19 23:48:39,365] base_page.py->open_url line:22 [INFO] : 打开url地址:http://47.107.178.45/zentao/www/index.php?m=user&f=login
+[2021-07-19 23:48:44,959] base_page.py->find_element line:74 [ERROR] : [用户名输入框]元素不能识别，原因是Message: 
+
+[2021-07-19 23:48:45,684] base_page.py->close_tab line:40 [INFO] : 关闭当前tab页签
+[2021-07-19 23:49:24,607] browser.py->get_chrome_driver line:32 [INFO] : 初始化并启动谷歌浏览器
+[2021-07-19 23:49:28,771] base_page.py->open_url line:22 [INFO] : 打开url地址:http://47.107.178.45/zentao/www/index.php?m=user&f=login
+[2021-07-19 23:52:04,370] selenium_base_case.py->setUpClass line:11 [INFO] : 测试类开始执行
+[2021-07-19 23:52:04,371] selenium_base_case.py->setUp line:15 [INFO] : 测试方法开始执行
+[2021-07-19 23:52:05,612] browser.py->get_chrome_driver line:32 [INFO] : 初始化并启动谷歌浏览器
+[2021-07-19 23:52:05,731] base_page.py->set_browser_max line:28 [INFO] : 设置浏览器最大化
+[2021-07-19 23:52:09,558] base_page.py->open_url line:22 [INFO] : 打开url地址:http://47.107.178.45/zentao/www/index.php?m=user&f=login
+[2021-07-19 23:52:15,084] base_page.py->find_element line:74 [ERROR] : [用户名输入框]元素不能识别，原因是Message: 
+
+[2021-07-19 23:52:15,706] base_page.py->close_tab line:40 [INFO] : 关闭当前tab页签
+[2021-07-19 23:52:15,706] selenium_base_case.py->setUp line:15 [INFO] : 测试方法开始执行
+[2021-07-19 23:52:16,899] browser.py->get_chrome_driver line:32 [INFO] : 初始化并启动谷歌浏览器
+[2021-07-19 23:52:17,022] base_page.py->set_browser_max line:28 [INFO] : 设置浏览器最大化
+[2021-07-19 23:52:21,335] base_page.py->open_url line:22 [INFO] : 打开url地址:http://47.107.178.45/zentao/www/index.php?m=user&f=login
+[2021-07-19 23:52:26,854] base_page.py->find_element line:74 [ERROR] : [用户名输入框]元素不能识别，原因是Message: 
+
+[2021-07-19 23:52:27,328] base_page.py->close_tab line:40 [INFO] : 关闭当前tab页签
+[2021-07-19 23:53:06,226] selenium_base_case.py->setUpClass line:11 [INFO] : 测试类开始执行
+[2021-07-19 23:53:06,226] selenium_base_case.py->setUp line:15 [INFO] : 测试方法开始执行
+[2021-07-19 23:53:07,498] browser.py->get_chrome_driver line:32 [INFO] : 初始化并启动谷歌浏览器
+[2021-07-19 23:53:07,610] base_page.py->set_browser_max line:28 [INFO] : 设置浏览器最大化
+[2021-07-19 23:53:11,871] base_page.py->open_url line:22 [INFO] : 打开url地址:http://47.107.178.45/zentao/www/index.php?m=user&f=login
+[2021-07-19 23:53:17,426] base_page.py->find_element line:73 [ERROR] : [用户名输入框]元素不能识别，原因是Message: 
+
+[2021-07-19 23:53:17,960] base_page.py->close_tab line:40 [INFO] : 关闭当前tab页签
+[2021-07-19 23:53:17,960] selenium_base_case.py->setUp line:15 [INFO] : 测试方法开始执行
+[2021-07-19 23:53:19,058] browser.py->get_chrome_driver line:32 [INFO] : 初始化并启动谷歌浏览器
+[2021-07-19 23:53:19,184] base_page.py->set_browser_max line:28 [INFO] : 设置浏览器最大化
+[2021-07-19 23:53:23,473] base_page.py->open_url line:22 [INFO] : 打开url地址:http://47.107.178.45/zentao/www/index.php?m=user&f=login
+[2021-07-19 23:53:29,027] base_page.py->find_element line:73 [ERROR] : [用户名输入框]元素不能识别，原因是Message: 
+
+[2021-07-19 23:53:29,508] base_page.py->close_tab line:40 [INFO] : 关闭当前tab页签
+[2021-07-19 23:54:11,085] selenium_base_case.py->setUpClass line:11 [INFO] : 测试类开始执行
+[2021-07-19 23:54:11,085] selenium_base_case.py->setUp line:15 [INFO] : 测试方法开始执行
+[2021-07-19 23:54:12,251] browser.py->get_chrome_driver line:32 [INFO] : 初始化并启动谷歌浏览器
+[2021-07-19 23:54:12,371] base_page.py->set_browser_max line:28 [INFO] : 设置浏览器最大化
+[2021-07-19 23:54:16,725] base_page.py->open_url line:22 [INFO] : 打开url地址:http://47.107.178.45/zentao/www/index.php?m=user&f=login
+[2021-07-19 23:54:22,307] base_page.py->find_element line:74 [ERROR] : [用户名输入框]元素不能识别，原因是Message: 
+
+[2021-07-19 23:54:22,898] base_page.py->close_tab line:40 [INFO] : 关闭当前tab页签
+[2021-07-19 23:54:22,900] selenium_base_case.py->setUp line:15 [INFO] : 测试方法开始执行
+[2021-07-19 23:54:24,102] browser.py->get_chrome_driver line:32 [INFO] : 初始化并启动谷歌浏览器
+[2021-07-19 23:54:24,224] base_page.py->set_browser_max line:28 [INFO] : 设置浏览器最大化
+[2021-07-19 23:54:28,551] base_page.py->open_url line:22 [INFO] : 打开url地址:http://47.107.178.45/zentao/www/index.php?m=user&f=login
+[2021-07-19 23:54:34,107] base_page.py->find_element line:74 [ERROR] : [用户名输入框]元素不能识别，原因是Message: 
+
+[2021-07-19 23:54:34,696] base_page.py->close_tab line:40 [INFO] : 关闭当前tab页签
+[2021-07-19 23:56:05,200] selenium_base_case.py->setUpClass line:11 [INFO] : 测试类开始执行
+[2021-07-19 23:56:05,200] selenium_base_case.py->setUp line:15 [INFO] : 测试方法开始执行
+[2021-07-19 23:56:06,371] browser.py->get_chrome_driver line:32 [INFO] : 初始化并启动谷歌浏览器
+[2021-07-19 23:56:06,493] base_page.py->set_browser_max line:28 [INFO] : 设置浏览器最大化
+[2021-07-19 23:56:10,451] base_page.py->open_url line:22 [INFO] : 打开url地址:http://47.107.178.45/zentao/www/index.php?m=user&f=login
+[2021-07-19 23:56:10,473] base_page.py->find_element line:71 [INFO] : [用户名输入框]元素识别成功
+[2021-07-19 23:56:10,556] base_page.py->input line:91 [INFO] : [用户名输入框]元素输入内容[test03]
+[2021-07-19 23:56:10,565] base_page.py->find_element line:71 [INFO] : [密码输入框]元素识别成功
+[2021-07-19 23:56:10,621] base_page.py->input line:91 [INFO] : [密码输入框]元素输入内容[newdream1234]
+[2021-07-19 23:56:10,651] base_page.py->find_element line:71 [INFO] : [登录按钮]元素识别成功
+[2021-07-19 23:56:10,692] base_page.py->click line:84 [INFO] : [登录按钮]元素点击成功
+[2021-07-19 23:56:10,692] login_page.py->click_login line:43 [INFO] : 登录按钮是{'element_name': '登录按钮', 'locator_page': 'login_page', 'locator_type': 'xpath', 'locator_value': '//button[@id="submit"]', 'time_out': 5.0}
+[2021-07-19 23:56:11,272] base_page.py->close_tab line:40 [INFO] : 关闭当前tab页签
+[2021-07-19 23:56:11,272] selenium_base_case.py->setUp line:15 [INFO] : 测试方法开始执行
+[2021-07-19 23:56:12,492] browser.py->get_chrome_driver line:32 [INFO] : 初始化并启动谷歌浏览器
+[2021-07-19 23:56:12,610] base_page.py->set_browser_max line:28 [INFO] : 设置浏览器最大化
+[2021-07-19 23:56:16,773] base_page.py->open_url line:22 [INFO] : 打开url地址:http://47.107.178.45/zentao/www/index.php?m=user&f=login
+[2021-07-19 23:56:16,796] base_page.py->find_element line:71 [INFO] : [用户名输入框]元素识别成功
+[2021-07-19 23:56:16,829] base_page.py->input line:91 [INFO] : [用户名输入框]元素输入内容[test01]
+[2021-07-19 23:56:16,838] base_page.py->find_element line:71 [INFO] : [密码输入框]元素识别成功
+[2021-07-19 23:56:16,899] base_page.py->input line:91 [INFO] : [密码输入框]元素输入内容[newdream123]
+[2021-07-19 23:56:16,907] base_page.py->find_element line:71 [INFO] : [登录按钮]元素识别成功
+[2021-07-19 23:56:16,941] base_page.py->click line:84 [INFO] : [登录按钮]元素点击成功
+[2021-07-19 23:56:16,941] login_page.py->click_login line:43 [INFO] : 登录按钮是{'element_name': '登录按钮', 'locator_page': 'login_page', 'locator_type': 'xpath', 'locator_value': '//button[@id="submit"]', 'time_out': 5.0}
+[2021-07-19 23:56:19,197] base_page.py->find_element line:71 [INFO] : [我的姓名]元素识别成功
+[2021-07-19 23:56:19,474] base_page.py->close_tab line:40 [INFO] : 关闭当前tab页签
+[2021-07-19 23:58:11,871] selenium_base_case.py->setUpClass line:11 [INFO] : 测试类开始执行
+[2021-07-19 23:58:11,871] selenium_base_case.py->setUp line:15 [INFO] : 测试方法开始执行
+[2021-07-19 23:58:13,024] browser.py->get_chrome_driver line:32 [INFO] : 初始化并启动谷歌浏览器
+[2021-07-19 23:58:13,140] base_page.py->set_browser_max line:28 [INFO] : 设置浏览器最大化
+[2021-07-19 23:58:17,050] base_page.py->open_url line:22 [INFO] : 打开url地址:http://47.107.178.45/zentao/www/index.php?m=user&f=login
+[2021-07-19 23:58:22,571] base_page.py->find_element line:74 [ERROR] : [用户名输入框]元素不能识别，原因是Message: 
+
+[2021-07-19 23:58:23,018] base_page.py->close_tab line:40 [INFO] : 关闭当前tab页签
+[2021-07-19 23:58:23,018] selenium_base_case.py->setUp line:15 [INFO] : 测试方法开始执行
+[2021-07-19 23:58:24,178] browser.py->get_chrome_driver line:32 [INFO] : 初始化并启动谷歌浏览器
+[2021-07-19 23:58:24,298] base_page.py->set_browser_max line:28 [INFO] : 设置浏览器最大化
+[2021-07-19 23:58:28,553] base_page.py->open_url line:22 [INFO] : 打开url地址:http://47.107.178.45/zentao/www/index.php?m=user&f=login
+[2021-07-19 23:58:34,094] base_page.py->find_element line:74 [ERROR] : [用户名输入框]元素不能识别，原因是Message: 
+
+[2021-07-19 23:58:34,551] base_page.py->close_tab line:40 [INFO] : 关闭当前tab页签

@@ -1,0 +1,17 @@
+[2021-05-15 23:34:41,574] log_utils.py-><module> line:37 [INFO] : newdream
+[2021-05-15 23:35:13,165] log_utils.py-><module> line:37 [INFO] : newdream
+[2021-05-15 23:45:21,366] login_page.py->input_username line:25 [INFO] : 用户名输入框输入：test01
+[2021-05-15 23:45:21,366] login_page.py->input_username line:25 [INFO] : 用户名输入框输入：test01
+[2021-05-15 23:45:21,442] login_page.py->input_password line:29 [INFO] : 密码输入框输入：newdream123
+[2021-05-15 23:45:21,442] login_page.py->input_password line:29 [INFO] : 密码输入框输入：newdream123
+[2021-05-15 23:45:21,493] login_page.py->click_login line:33 [INFO] : 点击登录按钮
+[2021-05-15 23:45:21,493] login_page.py->click_login line:33 [INFO] : 点击登录按钮
+[2021-05-15 23:45:22,824] main_page.py->get_username line:40 [INFO] : 获取用户名：测试人员1
+[2021-05-15 23:45:22,824] main_page.py->get_username line:40 [INFO] : 获取用户名：测试人员1
+[2021-05-15 23:52:46,347] login_page.py->input_username line:25 [INFO] : 用户名输入框输入：test01
+[2021-05-15 23:52:46,415] login_page.py->input_password line:29 [INFO] : 密码输入框输入：newdream123
+[2021-05-15 23:52:46,458] login_page.py->click_login line:33 [INFO] : 点击登录按钮
+[2021-05-15 23:53:37,245] login_page.py->input_username line:25 [INFO] : 用户名输入框输入：test01
+[2021-05-15 23:53:37,329] login_page.py->input_password line:29 [INFO] : 密码输入框输入：newdream123
+[2021-05-15 23:53:37,399] login_page.py->click_login line:33 [INFO] : 点击登录按钮
+[2021-05-15 23:53:41,004] main_page.py->get_username line:40 [INFO] : 获取用户名：测试人员1

@@ -1,0 +1,27 @@
+[2021-05-31 18:45:56,145] base_page.py->open_url line:17 [INFO] : 打开url地址:http://47.107.178.45/zentao/www/index.php?m=user&f=login
+[2021-05-31 18:45:56,172] base_page.py->find_element line:53 [INFO] : [用户名输入框]元素识别成功
+[2021-05-31 18:45:56,248] base_page.py->input line:64 [INFO] : [用户名输入框]元素输入内容[test01]
+[2021-05-31 18:45:56,262] base_page.py->find_element line:53 [INFO] : [密码输入框]元素识别成功
+[2021-05-31 18:45:56,329] base_page.py->input line:64 [INFO] : [密码输入框]元素输入内容[newdream123]
+[2021-05-31 18:45:56,341] base_page.py->find_element line:53 [INFO] : [登录按钮]元素识别成功
+[2021-05-31 18:45:56,396] base_page.py->click line:59 [INFO] : [登录按钮]元素点击成功
+[2021-05-31 18:45:56,397] login_page.py->click_login line:38 [INFO] : 登录按钮是{'element_name': '登录按钮', 'locator_type': 'xpath', 'locator_value': '//button[@id="submit"]', 'time_out': 10}
+[2021-05-31 18:45:56,671] base_page.py->close_browser line:38 [INFO] : 关闭浏览器
+[2021-05-31 18:49:18,957] base_page.py->open_url line:17 [INFO] : 打开url地址:http://47.107.178.45/zentao/www/index.php?m=user&f=login
+[2021-05-31 18:49:18,968] base_page.py->find_element line:53 [INFO] : [用户名输入框]元素识别成功
+[2021-05-31 18:49:19,010] base_page.py->input line:64 [INFO] : [用户名输入框]元素输入内容[test01]
+[2021-05-31 18:49:19,021] base_page.py->find_element line:53 [INFO] : [密码输入框]元素识别成功
+[2021-05-31 18:49:19,099] base_page.py->input line:64 [INFO] : [密码输入框]元素输入内容[newdream123]
+[2021-05-31 18:49:19,111] base_page.py->find_element line:53 [INFO] : [登录按钮]元素识别成功
+[2021-05-31 18:49:19,156] base_page.py->click line:59 [INFO] : [登录按钮]元素点击成功
+[2021-05-31 18:49:19,157] login_page.py->click_login line:38 [INFO] : 登录按钮是{'element_name': '登录按钮', 'locator_type': 'xpath', 'locator_value': '//button[@id="submit"]', 'time_out': 10}
+[2021-05-31 18:50:04,815] base_page.py->open_url line:17 [INFO] : 打开url地址:http://47.107.178.45/zentao/www/index.php?m=user&f=login
+[2021-05-31 18:50:04,829] base_page.py->find_element line:53 [INFO] : [用户名输入框]元素识别成功
+[2021-05-31 18:50:04,877] base_page.py->input line:64 [INFO] : [用户名输入框]元素输入内容[test01]
+[2021-05-31 18:50:04,890] base_page.py->find_element line:53 [INFO] : [密码输入框]元素识别成功
+[2021-05-31 18:50:05,006] base_page.py->input line:64 [INFO] : [密码输入框]元素输入内容[newdream123]
+[2021-05-31 18:50:05,019] base_page.py->find_element line:53 [INFO] : [登录按钮]元素识别成功
+[2021-05-31 18:50:05,115] base_page.py->click line:59 [INFO] : [登录按钮]元素点击成功
+[2021-05-31 18:50:05,116] login_page.py->click_login line:38 [INFO] : 登录按钮是{'element_name': '登录按钮', 'locator_type': 'xpath', 'locator_value': '//button[@id="submit"]', 'time_out': 10}
+[2021-05-31 18:50:08,123] base_page.py->wait line:69 [INFO] : 等待[3]秒
+[2021-05-31 18:50:08,206] base_page.py->close_browser line:38 [INFO] : 关闭浏览器

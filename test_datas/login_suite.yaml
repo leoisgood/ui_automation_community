@@ -1,0 +1,20 @@
+test_login_success:
+  test_suite: login_suite
+  test_case_name: 验证是否能成共进行登录
+  test_class: LoginTest
+  is_run: 否
+  expect_result: 测试人员1
+  fail_message: test_login_success用例执行失败
+  test_parameter:
+    username: test01
+    password: newdream123
+test_login_fail:
+  test_suite: login_suite
+  test_case_name: 验证错误的用户名和密码能否成功处理
+  test_class: LoginTest
+  is_run: 否
+  expect_result: 登录失败，请检查您的用户名或密码是否填写正确。
+  fail_message: test_login_fail执行失败
+  test_parameter:
+    username: test1234
+    password: newdream123

@@ -1,0 +1,60 @@
+[2021-07-11 10:39:02,534] base_page.py->open_url line:20 [INFO] : 打开url地址:http://47.107.178.45/zentao/www/index.php?m=user&f=login
+[2021-07-11 10:39:02,547] base_page.py->find_element line:56 [INFO] : [用户名输入框]元素识别成功
+[2021-07-11 10:39:02,610] base_page.py->input line:67 [INFO] : [用户名输入框]元素输入内容[test01]
+[2021-07-11 10:39:02,621] base_page.py->find_element line:56 [INFO] : [密码输入框]元素识别成功
+[2021-07-11 10:39:02,686] base_page.py->input line:67 [INFO] : [密码输入框]元素输入内容[newdream123]
+[2021-07-11 10:39:02,700] base_page.py->find_element line:56 [INFO] : [登录按钮]元素识别成功
+[2021-07-11 10:39:02,745] base_page.py->click line:62 [INFO] : [登录按钮]元素点击成功
+[2021-07-11 10:39:02,747] login_page.py->click_login line:43 [INFO] : 登录按钮是{'element_name': '登录按钮', 'locator_page': 'login_page', 'locator_type': 'xpath', 'locator_value': '//button[@id="submit"]', 'time_out': '5.0'}
+[2021-07-11 10:39:07,358] base_page.py->wait line:72 [INFO] : 等待[3]秒
+[2021-07-11 10:39:07,431] base_page.py->close_browser line:41 [INFO] : 关闭浏览器
+[2021-07-11 10:50:55,778] base_page.py->open_url line:20 [INFO] : 打开url地址:http://47.107.178.45/zentao/www/index.php?m=user&f=login
+[2021-07-11 10:50:55,826] base_page.py->find_element line:56 [INFO] : [用户名输入框]元素识别成功
+[2021-07-11 10:50:55,884] base_page.py->input line:67 [INFO] : [用户名输入框]元素输入内容[test01]
+[2021-07-11 10:50:55,893] base_page.py->find_element line:56 [INFO] : [密码输入框]元素识别成功
+[2021-07-11 10:50:55,951] base_page.py->input line:67 [INFO] : [密码输入框]元素输入内容[newdream123]
+[2021-07-11 10:50:55,960] base_page.py->find_element line:56 [INFO] : [登录按钮]元素识别成功
+[2021-07-11 10:50:56,010] base_page.py->click line:62 [INFO] : [登录按钮]元素点击成功
+[2021-07-11 10:50:56,010] login_page.py->click_login line:43 [INFO] : 登录按钮是{'element_name': '登录按钮', 'locator_page': 'login_page', 'locator_type': 'xpath', 'locator_value': '//button[@id="submit"]', 'time_out': '5.0'}
+[2021-07-11 10:51:00,543] base_page.py->wait line:72 [INFO] : 等待[3]秒
+[2021-07-11 10:51:00,706] base_page.py->close_browser line:41 [INFO] : 关闭浏览器
+[2021-07-11 10:58:20,648] base_page.py->open_url line:20 [INFO] : 打开url地址:http://47.107.178.45/zentao/www/index.php?m=user&f=login
+[2021-07-11 10:58:20,664] base_page.py->find_element line:56 [INFO] : [用户名输入框]元素识别成功
+[2021-07-11 10:58:20,717] base_page.py->input line:67 [INFO] : [用户名输入框]元素输入内容[test01]
+[2021-07-11 10:58:20,727] base_page.py->find_element line:56 [INFO] : [密码输入框]元素识别成功
+[2021-07-11 10:58:20,795] base_page.py->input line:67 [INFO] : [密码输入框]元素输入内容[newdream123]
+[2021-07-11 10:58:20,807] base_page.py->find_element line:56 [INFO] : [登录按钮]元素识别成功
+[2021-07-11 10:58:20,857] base_page.py->click line:62 [INFO] : [登录按钮]元素点击成功
+[2021-07-11 10:58:20,857] login_page.py->click_login line:43 [INFO] : 登录按钮是{'element_name': '登录按钮', 'locator_page': 'login_page', 'locator_type': 'xpath', 'locator_value': '//button[@id="submit"]', 'time_out': '5.0'}
+[2021-07-11 10:58:25,672] base_page.py->wait line:72 [INFO] : 等待[3]秒
+[2021-07-11 10:58:25,753] base_page.py->close_browser line:41 [INFO] : 关闭浏览器
+[2021-07-11 11:00:15,333] base_page.py->open_url line:20 [INFO] : 打开url地址:http://47.107.178.45/zentao/www/index.php?m=user&f=login
+[2021-07-11 11:00:15,344] base_page.py->find_element line:56 [INFO] : [用户名输入框]元素识别成功
+[2021-07-11 11:00:15,381] base_page.py->input line:67 [INFO] : [用户名输入框]元素输入内容[test01]
+[2021-07-11 11:00:15,389] base_page.py->find_element line:56 [INFO] : [密码输入框]元素识别成功
+[2021-07-11 11:00:15,460] base_page.py->input line:67 [INFO] : [密码输入框]元素输入内容[newdream123]
+[2021-07-11 11:00:15,478] base_page.py->find_element line:56 [INFO] : [登录按钮]元素识别成功
+[2021-07-11 11:00:15,517] base_page.py->click line:62 [INFO] : [登录按钮]元素点击成功
+[2021-07-11 11:00:15,517] login_page.py->click_login line:43 [INFO] : 登录按钮是{'element_name': '登录按钮', 'locator_page': 'login_page', 'locator_type': 'xpath', 'locator_value': '//button[@id="submit"]', 'time_out': '5.0'}
+[2021-07-11 11:00:19,452] base_page.py->wait line:72 [INFO] : 等待[3]秒
+[2021-07-11 11:00:19,530] base_page.py->close_browser line:41 [INFO] : 关闭浏览器
+[2021-07-11 11:02:01,672] base_page.py->open_url line:20 [INFO] : 打开url地址:http://47.107.178.45/zentao/www/index.php?m=user&f=login
+[2021-07-11 11:02:01,683] base_page.py->find_element line:56 [INFO] : [用户名输入框]元素识别成功
+[2021-07-11 11:02:01,717] base_page.py->input line:67 [INFO] : [用户名输入框]元素输入内容[test01]
+[2021-07-11 11:02:01,729] base_page.py->find_element line:56 [INFO] : [密码输入框]元素识别成功
+[2021-07-11 11:02:01,802] base_page.py->input line:67 [INFO] : [密码输入框]元素输入内容[newdream123]
+[2021-07-11 11:02:01,813] base_page.py->find_element line:56 [INFO] : [登录按钮]元素识别成功
+[2021-07-11 11:02:01,852] base_page.py->click line:62 [INFO] : [登录按钮]元素点击成功
+[2021-07-11 11:02:01,853] login_page.py->click_login line:43 [INFO] : 登录按钮是{'element_name': '登录按钮', 'locator_page': 'login_page', 'locator_type': 'xpath', 'locator_value': '//button[@id="submit"]', 'time_out': '5.0'}
+[2021-07-11 11:02:06,726] base_page.py->wait line:72 [INFO] : 等待[3]秒
+[2021-07-11 11:02:06,828] base_page.py->close_browser line:41 [INFO] : 关闭浏览器
+[2021-07-11 11:03:07,980] base_page.py->open_url line:20 [INFO] : 打开url地址:http://47.107.178.45/zentao/www/index.php?m=user&f=login
+[2021-07-11 11:03:07,990] base_page.py->find_element line:56 [INFO] : [用户名输入框]元素识别成功
+[2021-07-11 11:03:08,036] base_page.py->input line:67 [INFO] : [用户名输入框]元素输入内容[test01]
+[2021-07-11 11:03:08,046] base_page.py->find_element line:56 [INFO] : [密码输入框]元素识别成功
+[2021-07-11 11:03:08,113] base_page.py->input line:67 [INFO] : [密码输入框]元素输入内容[newdream123]
+[2021-07-11 11:03:08,135] base_page.py->find_element line:56 [INFO] : [登录按钮]元素识别成功
+[2021-07-11 11:03:08,172] base_page.py->click line:62 [INFO] : [登录按钮]元素点击成功
+[2021-07-11 11:03:08,172] login_page.py->click_login line:43 [INFO] : 登录按钮是{'element_name': '登录按钮', 'locator_page': 'login_page', 'locator_type': 'xpath', 'locator_value': '//button[@id="submit"]', 'time_out': '5.0'}
+[2021-07-11 11:03:11,181] base_page.py->wait line:72 [INFO] : 等待[3]秒
+[2021-07-11 11:03:11,456] base_page.py->close_browser line:41 [INFO] : 关闭浏览器

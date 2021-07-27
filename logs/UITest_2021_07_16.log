@@ -1,0 +1,35 @@
+[2021-07-16 00:14:59,908] browser.py->get_chrome_driver line:32 [INFO] : 初始化并启动谷歌浏览器
+[2021-07-16 00:15:00,055] base_page.py->set_browser_max line:25 [INFO] : 设置浏览器最大化
+[2021-07-16 00:15:03,681] base_page.py->open_url line:21 [INFO] : 打开url地址:http://47.107.178.45/zentao/www/index.php?m=user&f=login
+[2021-07-16 00:15:03,698] base_page.py->find_element line:61 [INFO] : [用户名输入框]元素识别成功
+[2021-07-16 00:15:03,756] base_page.py->input line:72 [INFO] : [用户名输入框]元素输入内容[test01]
+[2021-07-16 00:15:03,769] base_page.py->find_element line:61 [INFO] : [密码输入框]元素识别成功
+[2021-07-16 00:15:03,846] base_page.py->input line:72 [INFO] : [密码输入框]元素输入内容[newdream123]
+[2021-07-16 00:15:03,868] base_page.py->find_element line:61 [INFO] : [登录按钮]元素识别成功
+[2021-07-16 00:15:03,944] base_page.py->click line:67 [INFO] : [登录按钮]元素点击成功
+[2021-07-16 00:15:03,944] login_page.py->click_login line:43 [INFO] : 登录按钮是{'element_name': '登录按钮', 'locator_page': 'login_page', 'locator_type': 'xpath', 'locator_value': '//button[@id="submit"]', 'time_out': 5.0}
+[2021-07-16 00:15:04,023] base_page.py->close_tab line:37 [INFO] : 关闭当前tab页签
+[2021-07-16 00:16:50,093] browser.py->get_chrome_driver line:32 [INFO] : 初始化并启动谷歌浏览器
+[2021-07-16 00:16:54,352] base_page.py->find_element line:61 [INFO] : [用户名输入框]元素识别成功
+[2021-07-16 00:16:54,459] base_page.py->input line:72 [INFO] : [用户名输入框]元素输入内容[test01]
+[2021-07-16 00:16:54,471] base_page.py->find_element line:61 [INFO] : [密码输入框]元素识别成功
+[2021-07-16 00:16:54,540] base_page.py->input line:72 [INFO] : [密码输入框]元素输入内容[newdream123]
+[2021-07-16 00:16:54,552] base_page.py->find_element line:61 [INFO] : [登录按钮]元素识别成功
+[2021-07-16 00:16:54,598] base_page.py->click line:67 [INFO] : [登录按钮]元素点击成功
+[2021-07-16 00:16:54,598] login_page.py->click_login line:43 [INFO] : 登录按钮是{'element_name': '登录按钮', 'locator_page': 'login_page', 'locator_type': 'xpath', 'locator_value': '//button[@id="submit"]', 'time_out': 5.0}
+[2021-07-16 00:17:51,474] browser.py->get_chrome_driver line:32 [INFO] : 初始化并启动谷歌浏览器
+[2021-07-16 00:17:51,609] base_page.py->set_browser_max line:25 [INFO] : 设置浏览器最大化
+[2021-07-16 00:17:54,987] base_page.py->open_url line:21 [INFO] : 打开url地址:http://47.107.178.45/zentao/www/index.php?m=user&f=login
+[2021-07-16 00:17:55,011] base_page.py->find_element line:61 [INFO] : [用户名输入框]元素识别成功
+[2021-07-16 00:17:55,043] base_page.py->input line:72 [INFO] : [用户名输入框]元素输入内容[test01]
+[2021-07-16 00:17:55,051] base_page.py->find_element line:61 [INFO] : [密码输入框]元素识别成功
+[2021-07-16 00:17:55,117] base_page.py->input line:72 [INFO] : [密码输入框]元素输入内容[newdream123]
+[2021-07-16 00:17:55,129] base_page.py->find_element line:61 [INFO] : [登录按钮]元素识别成功
+[2021-07-16 00:17:55,164] base_page.py->click line:67 [INFO] : [登录按钮]元素点击成功
+[2021-07-16 00:17:55,164] login_page.py->click_login line:43 [INFO] : 登录按钮是{'element_name': '登录按钮', 'locator_page': 'login_page', 'locator_type': 'xpath', 'locator_value': '//button[@id="submit"]', 'time_out': 5.0}
+[2021-07-16 00:17:57,143] base_page.py->find_element line:61 [INFO] : [我的姓名]元素识别成功
+[2021-07-16 00:17:57,186] base_page.py->click line:67 [INFO] : [我的姓名]元素点击成功
+[2021-07-16 00:17:57,201] base_page.py->find_element line:61 [INFO] : [退出按钮]元素识别成功
+[2021-07-16 00:17:57,634] base_page.py->click line:67 [INFO] : [退出按钮]元素点击成功
+[2021-07-16 00:17:57,642] base_page.py->get_title line:45 [INFO] : 获取网页标题，标题是：用户登录 - 禅道
+[2021-07-16 00:17:57,704] base_page.py->close_tab line:37 [INFO] : 关闭当前tab页签
