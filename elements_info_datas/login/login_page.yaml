@@ -1,21 +1,27 @@
-username_inputbox:
-  element_name: 用户名输入框
+login_link:
+  element_name: 登录链接的按钮
   locator_page: login_page
   locator_type: xpath
-  locator_value: //input[@name="account"]
+  locator_value: //div[@data-cy="hp-menu-signin"]
+  time_out: 5
+email_inputbox:
+  element_name: 邮箱地址输入框
+  locator_page: login_page
+  locator_type: xpath
+  locator_value: //input[@data-cy="signin_email"]
   time_out: 5
 password_inputbox:
   element_name: 密码输入框
   locator_page: login_page
   locator_type: xpath
-  locator_value: //input[@name="password"]
+  locator_value: //input[@data-cy="signin_pwd"]
   time_out: 5
 login_button:
   element_name: 登录按钮
   locator_page: login_page
   locator_type: xpath
-  locator_value: //button[@id="submit"]
-  time_out: 3
+  locator_value: //button[@data-cy="signin_submit"]
+  time_out: 5
 bug_link:
   element_name: bug链接[%s]
   locator_page: bug_page

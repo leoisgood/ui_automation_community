@@ -1,5 +1,5 @@
 from elements_infos.login.login_page import LoginPage
-from elements_infos.main.main_page import MainPage
+from elements_infos.dashboard.dashboard_page import MainPage
 from common.config_utils import local_config
 from common.browser import Browser
 

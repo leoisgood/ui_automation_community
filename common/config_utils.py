@@ -2,7 +2,7 @@ import os
 import configparser
 
 cur_path = os.path.dirname(__file__)
-config_path = os.path.join(cur_path, '..\config\config.ini')
+config_path = os.path.join(cur_path, '../config/config.ini')
 
 
 class Config:

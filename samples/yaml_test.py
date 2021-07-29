@@ -2,7 +2,7 @@ import os
 import yaml
 
 cur_path = os.path.dirname(__file__)
-yaml_path = os.path.join(cur_path, '..\\elements_info_datas\\main_page.yaml')
+yaml_path = os.path.join(cur_path, '..\\elements_info_datas\\dashboard_page.yaml')
 
 
 def read_yaml():

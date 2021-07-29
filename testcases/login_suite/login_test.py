@@ -17,20 +17,24 @@ class LoginTest(SeleniumBaseCase):
     def setUp(self) -> None:
         super().setUp()
 
-    @unittest.skipIf(test_data_utils.get_is_run('test_login_success'), '登录成功测试用例跳过')  # 使用类属性，可以提供给实例方法使用
+    # @unittest.skipIf(test_data_utils.get_is_run('test_login_success'), '登录成功测试用例跳过')  # 使用类属性，可以提供给实例方法使用
     def test_login_success(self):
-        print(self.test_data_utils.get_is_run('test_login_success'))
+        # print(self.test_data_utils.get_is_run('test_login_success'))
         test_case_data = self.test_data['test_login_success']
         self._testMethodDoc = test_case_data['test_case_name']  # 测试用例名称
         login_action = LoginAction(self.base_page.driver)
+
         # 从测试用例数据中取出相应的字段（测试数据，期望结果等）
         main_page = login_action.login_success(test_case_data['test_parameter'].
                                                get('username'), test_case_data['test_parameter'].get('password'))
-        actual_result = main_page.get_username()
-        self.assertEqual(actual_result, test_case_data['expect_result'], 'test_login_success执行失败')
+        # actual_result = main_page.get_username()
+        # self.assertEqual(actual_result, test_case_data['expect_result'], 'test_login_success执行失败')
+        actual_result = main_page.get_title()
+        print(actual_result, test_case_data['expect_result'])
+        self.assertTrue(actual_result.__contains__(test_case_data['expect_result']), 'test_login_success用例失败')
         self.base_page.screenshot_as_file()
 
-    @unittest.skipIf(test_data_utils.get_is_run('test_login_success'), '登录失败测试用例跳过')  # 使用类属性，可以提供给实例方法使用
+    @unittest.skipIf(test_data_utils.get_is_run('test_login_fail'), '登录失败测试用例跳过')  # 使用类属性，可以提供给实例方法使用
     def test_login_fail(self):
         test_case_data = self.test_data['test_login_fail']
         self._testMethodDoc = test_case_data['test_case_name']

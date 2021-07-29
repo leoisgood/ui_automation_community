@@ -1,0 +1,30 @@
+companyname_showbox:
+  element_name: 公司名称
+  locator_page: dashboard_page
+  locator_type: xpath
+  locator_value: //h1[@id="companyname"]
+  time_out: 5
+myzone_link:
+  element_name: 我的地盘
+  locator_page: dashboard_page
+  locator_type: xpath
+  locator_value: //li[@data-id="my"]
+  time_out: 5
+product_menu:
+  element_name: 我的产品
+  locator_page: dashboard_page
+  locator_type: xpath
+  locator_value: //li[@data-id="product"]
+  time_out: 5
+user_name:
+  element_name: 用户昵称
+  locator_page: dashboard_page
+  locator_type: xpath
+  locator_value: //a[@href="/user/9154256"]
+  time_out: 5
+quit_button:
+  element_name: 退出按钮
+  locator_page: dashboard_page
+  locator_type: xpath
+  locator_value: //a[@href="/zentao/www/index.php?m=user&f=logout"]
+  time_out: 5
